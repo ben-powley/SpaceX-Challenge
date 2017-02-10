@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.marker {
+  position: absolute;
+  width: 20px;
+  height: 34px;
+  top: -34px;
+  left: -10px;
+  background-image: url('http://maps.google.com/mapfiles/marker.png');
+  background-size: cover;
+  background-position: center center;
+}
