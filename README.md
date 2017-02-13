@@ -2,4 +2,4 @@ This repository contains my solution to a coding exercise that is part of the se
 
 ---
 
-[![N|Preview](preview.png)]()
+[![N|Preview](preview.PNG)]()
